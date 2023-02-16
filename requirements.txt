@@ -1,2 +1,4 @@
 revChatGPT==2.2.7
 streamlit==1.17.0
+undetected-chromedriver>=3.4.0
+selenium>=2.53.6
